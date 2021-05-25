@@ -1,1 +1,1 @@
-console.log("hello world develop);
+console.log("este es un cambio conflictivo en un feature);
