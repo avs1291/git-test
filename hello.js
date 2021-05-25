@@ -1,1 +1,1 @@
-console.log("estrategia #2 develop");
+console.log("estrategia #2 ahora un cambio en develop");
